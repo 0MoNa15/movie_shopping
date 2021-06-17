@@ -1,2 +1,3 @@
-# movie_shopping
-Compras de películas
+# Movie shopping
+
+Compras de películas, cómo los viejos tiempos!
